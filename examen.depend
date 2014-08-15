@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408067472 source:/home/kluis/Desktop/examen/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
